@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0-trunk
+Project("D85B39AC-2F31-43F9-A8A3-FC4267F186B7") = "Desktop", "Desktop\Desktop.usr", "D85B39AC-2F31-43F9-A8A3-FC4267F186B7"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXHd3aDk4XERvY3VtZW50c1xHaXRIdWJcUGVyZm9ybWFuY2VUZXN0XERlc2t0b3BcRGVza3RvcC51c3I8L0xvYWREYXRhPg0KICA8RmlsZXM+DQogICAgPEZpbGU+QzpcVXNlcnNcd3doOThcRG9jdW1lbnRzXEdpdEh1YlxQZXJmb3JtYW5jZVRlc3RcRGVza3RvcFxEZXNrdG9wLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMTktMDEtMDlUMjM6MjY6MjkuOTU4OTQ4NSswODowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("6779464E-A123-469F-AA88-6D534CED975E") = "Web", "Web\Web.usr", "6779464E-A123-469F-AA88-6D534CED975E"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXHd3aDk4XERvY3VtZW50c1xHaXRIdWJcUGVyZm9ybWFuY2VUZXN0XFdlYlxXZWIudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPkM6XFVzZXJzXHd3aDk4XERvY3VtZW50c1xHaXRIdWJcUGVyZm9ybWFuY2VUZXN0XFdlYlxXZWIudXNyPC9GaWxlPg0KICA8L0ZpbGVzPg0KICA8TW9kaWZpZWQ+MjAxOS0wMS0wOVQyMzoyNjo1MS40MDI3OTU4KzA4OjAwPC9Nb2RpZmllZD4NCjwvUGVyc2lzdGVuY2VUb2tlbj4_
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		D85B39AC-2F31-43F9-A8A3-FC4267F186B7.Debug|Any CPU.Build.0 = Debug|Any CPU
+		D85B39AC-2F31-43F9-A8A3-FC4267F186B7.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		D85B39AC-2F31-43F9-A8A3-FC4267F186B7.Release|Any CPU.Build.0 = Release|Any CPU
+		D85B39AC-2F31-43F9-A8A3-FC4267F186B7.Release|Any CPU.ActiveCfg = Release|Any CPU
+		6779464E-A123-469F-AA88-6D534CED975E.Debug|Any CPU.Build.0 = Debug|Any CPU
+		6779464E-A123-469F-AA88-6D534CED975E.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		6779464E-A123-469F-AA88-6D534CED975E.Release|Any CPU.Build.0 = Release|Any CPU
+		6779464E-A123-469F-AA88-6D534CED975E.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
