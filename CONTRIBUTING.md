@@ -1,4 +1,4 @@
-First off, thank you for taking the time to contribute! 
+First of all, thank you for taking the time to contribute! 
 
 ### Code of Conduct
 
@@ -51,6 +51,6 @@ You will likely retain author attribution for your Git commits granted that the 
 
 If asked to make corrections, simply push the changes against the same branch, and your pull request will be updated. In other words, you do not need to create a new pull request when asked to make changes.
 
-#### References
+### References
 
 Templates are revised from [Spring Contributor](https://github.com/spring-projects/spring-framework/blob/master/CONTRIBUTING.md).
